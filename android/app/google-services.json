@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "962406469733",
+    "project_id": "chatting-862e8",
+    "storage_bucket": "chatting-862e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962406469733:android:8fe131289396663b10b68c",
+        "android_client_info": {
+          "package_name": "com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962406469733-k0pbpnfv8ihkpkka6hgluvii3nq7n2b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEKEAMbZfg0-XOzhvjY2uDSO_bpnRv6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962406469733-k0pbpnfv8ihkpkka6hgluvii3nq7n2b4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962406469733-ttktb9q9nvcrupk1jvbld0g6djtq8i75.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.chater"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962406469733:android:fca450e09df011b910b68c",
+        "android_client_info": {
+          "package_name": "com.pannthee.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962406469733-k0pbpnfv8ihkpkka6hgluvii3nq7n2b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEKEAMbZfg0-XOzhvjY2uDSO_bpnRv6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962406469733-k0pbpnfv8ihkpkka6hgluvii3nq7n2b4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962406469733-ttktb9q9nvcrupk1jvbld0g6djtq8i75.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.chater"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
